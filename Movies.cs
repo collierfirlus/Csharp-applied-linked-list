@@ -4,12 +4,6 @@ namespace CollierFirlus_1322Lab14
 {
     class Movies
     {
-        //Class: 1322L
-        //Section: 06
-        //Term: Fall 2020
-        //Instructor: Peter Adeojo
-        //Name: Collier Firlus
-        //Lab 14
         static void Main(string[] args)
         {
             BluRayCollection MyCollection = new BluRayCollection();
